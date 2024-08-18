@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a DataCamp project where I apply the skills I learned in the courses "Introduction to Python" and "Intermediate Python", it contains the Jupyter Notebook "notebook.ipynb" that performs an in-depth analysis of Netflix movies dataset.
+This repository contains a DataCamp project where I apply the skills I learned in the courses "Introduction to Python" and "Intermediate Python", it contains the Jupyter Notebook "notebook.ipynb" that performs an in-depth analysis of the Netflix movies dataset.
 
 ## Usage
 
